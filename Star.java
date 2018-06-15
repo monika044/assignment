@@ -1,4 +1,4 @@
-// Draw a pattern//
+// print the  pattern mention in a question//
 
 class Star{
 public static void main(String[] args){
